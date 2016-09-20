@@ -1,6 +1,6 @@
 # hello-world
 my first try
 
-Hey 
+Hello edit2, 
 
-How are you guys? What's new? 
+How's the money !!! 
